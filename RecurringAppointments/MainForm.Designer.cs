@@ -190,7 +190,7 @@ namespace RecurringAppointments
 			this.txtBoxResultsPath.Name = "txtBoxResultsPath";
 			this.txtBoxResultsPath.Size = new System.Drawing.Size(227, 20);
 			this.txtBoxResultsPath.TabIndex = 16;
-			this.txtBoxResultsPath.Text = "C:\\Users\\aajiwani\\Desktop\\aa.txt";
+			this.txtBoxResultsPath.Text = "C:\\Appointments.txt";
 			// 
 			// label8
 			// 
