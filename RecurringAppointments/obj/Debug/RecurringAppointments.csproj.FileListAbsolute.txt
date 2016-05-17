@@ -1,0 +1,9 @@
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\bin\Debug\RecurringAppointments.exe.config
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\bin\Debug\RecurringAppointments.exe
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\bin\Debug\RecurringAppointments.pdb
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\obj\Debug\RecurringAppointments.csprojResolveAssemblyReference.cache
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\obj\Debug\RecurringAppointments.MainForm.resources
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\obj\Debug\RecurringAppointments.csproj.GenerateResource.Cache
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\obj\Debug\RecurringAppointments.exe
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\obj\Debug\RecurringAppointments.pdb
+C:\Users\aajiwani\Documents\SharpDevelop Projects\RecurringAppointments\RecurringAppointments\bin\Debug\Newtonsoft.Json.dll
